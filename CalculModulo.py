@@ -7,6 +7,6 @@ print ("Val Div", div);
 dmod = divmod(Seconde_dans_le_jour , Seconde_periode)
 print ("Val Mod", dmod);
 divint = Seconde_dans_le_jour // Seconde_periode
-print ("Val Mod", divint);
+print ("Val Div Entiere", divint);
 divrest = Seconde_dans_le_jour % Seconde_periode
-print ("Val Mod", divrest);
+print ("Val Div Reste", divrest);
